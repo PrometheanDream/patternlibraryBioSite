@@ -1,0 +1,12 @@
+.column1, .column2, .column3 {
+width: 31.3%;
+float: left;
+margin: 1%;
+}
+
+#feature, .article {
+height: 15em;
+margin-bottom: .5em;
+background-color: rgba(133, 71, 239, .85);
+
+}

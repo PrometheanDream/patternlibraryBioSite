@@ -1,0 +1,8 @@
+.column4, .column5 {
+width: 46.95%;
+float: left;
+margin: 1%;
+}
+
+#footer {overflow: auto;
+}
