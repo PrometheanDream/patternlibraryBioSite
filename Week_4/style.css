@@ -1,0 +1,36 @@
+div.leftTopHalfColumn {
+background-color: gray;
+border: 1px solid black;
+height: 300px;
+width: 25%;
+
+}
+
+div.lefBotHalfColumn {
+background-color: gray;
+border: 1px solid black;
+height: 600px;
+width: 25%;
+
+}
+
+div.rightFullPage {
+background-color: gray;
+border: 1px solid black;
+float-right;
+height: 900px;
+width: 25%;
+
+}
+
+div.leftHalfSection {
+
+}
+
+div.rightSmallMiddle {
+
+}
+
+div.bottomLongBox {
+
+}
