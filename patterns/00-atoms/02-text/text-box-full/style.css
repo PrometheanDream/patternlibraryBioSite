@@ -1,0 +1,13 @@
+#nav {
+background-color: rgba(133, 71, 239, .85);
+display: block;
+height: 15em;
+}
+
+.imageOne {
+border: 1px solid black;
+float: left;
+height: 90%;
+width: 20em;
+margin: .5%;
+{
