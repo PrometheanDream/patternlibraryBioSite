@@ -1,0 +1,57 @@
+body {
+	background-image: url(http://www.sepeb.com/forest-background-wallpaper/forest-background-wallpaper-008.jpg);
+width: 90%;
+margin: 0 auto;
+text-align: center;
+font-family: 'Oswald', sans-serif;
+}
+
+#content, #footer {overflow: auto;
+}
+
+#nav, #feature, #footer {
+margin: 1%;
+}
+
+.column1, .column2, .column3 {
+width: 31.3%;
+float: left;
+margin: 1%;
+}
+
+.column4, .column5 {
+width: 46.95%;
+float: left;
+margin: 1%;
+}
+
+.column3 {margin-right: 0%;
+}
+
+.column5 {margin-right: 0%;
+}
+
+#nav {
+background-color: rgba(133, 71, 239, .85);
+display: block;
+height: 15em;
+}
+
+
+#feature, .article {
+height: 15em;
+margin-bottom: .5em;
+background-color: rgba(133, 71, 239, .85);
+
+}
+
+.imageOne {
+border: 1px solid black;
+float: left;
+height: 90%;
+width: 20em;
+margin: .5%;
+{
+
+
+
